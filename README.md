@@ -16,3 +16,6 @@ SMS?
 Bitcoin?
 WIFI?
 Email?
+
+
+So I know how I'm going to go about these, the question is whether or not I can do this with a free subscription to mongoDB, maybe I should look at alternatives.
